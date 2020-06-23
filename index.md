@@ -8,3 +8,5 @@ Heywood Woody Allen (born Allan Stewart Konigsberg; December 1, 1935) is an Amer
 * comedian
 
 > Zitat von Woody Allen
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Woody_Allen_-_Kup.JPG"/>
